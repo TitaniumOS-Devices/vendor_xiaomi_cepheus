@@ -71,7 +71,15 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cepheus/proprietary/lib64/vendor.qti.ims.rcsconfig@1.0.so:system/lib64/vendor.qti.ims.rcsconfig@1.0.so \
     vendor/xiaomi/cepheus/proprietary/lib64/vendor.qti.imsrtpservice@1.0.so:system/lib64/vendor.qti.imsrtpservice@1.0.so \
     vendor/xiaomi/cepheus/proprietary/lib64/vendor.qti.latency@2.0.so:system/lib64/vendor.qti.latency@2.0.so \
+    vendor/xiaomi/cepheus/proprietary/lib64/mediadrm/libwvdrmengine.so:system/lib64/mediadrm/libwvdrmengine.so \
+    vendor/xiaomi/cepheus/proprietary/lib/mediadrm/libwvdrmengine.so:system/lib/mediadrm/libwvdrmengine.so \
+    vendor/xiaomi/cepheus/proprietary/lib64/liboemcrypto.so:system/lib64/liboemcrypto.so \
+    vendor/xiaomi/cepheus/proprietary/lib64/libwvkeybox.so:system/lib64/libwvkeybox.so \
+    vendor/xiaomi/cepheus/proprietary/lib64/libmt@1.2.so:system/lib64/libmt@1.2.so \
+    vendor/xiaomi/cepheus/proprietary/lib64/libwvhidl.so:system/lib64/libwvhidl.so \
     vendor/xiaomi/cepheus/proprietary/lib/soundfx/libvolumelistener.so:system/lib/soundfx/libvolumelistener.so \
+    vendor/xiaomi/cepheus/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so \
+    vendor/xiaomi/cepheus/proprietary/lib/libwvkeybox.so:system/lib/libwvkeybox.so \
     vendor/xiaomi/cepheus/proprietary/lib64/soundfx/libvolumelistener.so:system/lib64/soundfx/libvolumelistener.so
 
 PRODUCT_PACKAGES += \
