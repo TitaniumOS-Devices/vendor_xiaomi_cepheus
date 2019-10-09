@@ -162,7 +162,6 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     datastatusnotification \
     embms \
-    imssettings \
     uceShimService \
     dpmserviceapp \
     ims \
