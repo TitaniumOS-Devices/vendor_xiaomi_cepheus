@@ -9,7 +9,6 @@
 /vendor/lib/modules/audio_cs35l41.ko:
 /vendor/lib/modules/audio_swr_ctrl.ko: /vendor/lib/modules/audio_swr.ko /vendor/lib/modules/audio_q6.ko /vendor/lib/modules/audio_apr.ko /vendor/lib/modules/audio_q6_notifier.ko /vendor/lib/modules/audio_q6_pdr.ko
 /vendor/lib/modules/audio_machine_msmnile.ko: /vendor/lib/modules/audio_wcd934x.ko /vendor/lib/modules/audio_mbhc.ko /vendor/lib/modules/audio_wsa881x.ko /vendor/lib/modules/audio_wcd9360.ko /vendor/lib/modules/audio_swr_ctrl.ko /vendor/lib/modules/audio_swr.ko /vendor/lib/modules/audio_wcd9xxx.ko /vendor/lib/modules/audio_wcd_core.ko /vendor/lib/modules/audio_q6.ko /vendor/lib/modules/audio_apr.ko /vendor/lib/modules/audio_q6_notifier.ko /vendor/lib/modules/audio_q6_pdr.ko
-/vendor/lib/modules/rdbg.ko:
 /vendor/lib/modules/audio_usf.ko: /vendor/lib/modules/audio_q6.ko /vendor/lib/modules/audio_apr.ko /vendor/lib/modules/audio_q6_notifier.ko /vendor/lib/modules/audio_q6_pdr.ko
 /vendor/lib/modules/rmnet_perf.ko:
 /vendor/lib/modules/audio_wcd934x.ko: /vendor/lib/modules/audio_mbhc.ko /vendor/lib/modules/audio_swr_ctrl.ko /vendor/lib/modules/audio_swr.ko /vendor/lib/modules/audio_wcd9xxx.ko /vendor/lib/modules/audio_wcd_core.ko /vendor/lib/modules/audio_q6.ko /vendor/lib/modules/audio_apr.ko /vendor/lib/modules/audio_q6_notifier.ko /vendor/lib/modules/audio_q6_pdr.ko
