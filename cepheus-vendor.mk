@@ -124,40 +124,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cepheus/proprietary/product/lib64/vendor.qti.ims.callinfo@1.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.qti.ims.callinfo@1.0.so \
     vendor/xiaomi/cepheus/proprietary/product/lib64/vendor.qti.ims.rcsconfig@1.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.qti.ims.rcsconfig@1.0.so \
     vendor/xiaomi/cepheus/proprietary/product/lib64/vendor.qti.imsrtpservice@2.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.qti.imsrtpservice@2.0.so \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_adsp_loader.ko:system/lib/modules/audio_adsp_loader.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_apr.ko:system/lib/modules/audio_apr.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_cs35l41.ko:system/lib/modules/audio_cs35l41.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_hdmi.ko:system/lib/modules/audio_hdmi.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_machine_msmnile.ko:system/lib/modules/audio_machine_msmnile.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_mbhc.ko:system/lib/modules/audio_mbhc.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_native.ko:system/lib/modules/audio_native.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_pinctrl_wcd.ko:system/lib/modules/audio_pinctrl_wcd.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_platform.ko:system/lib/modules/audio_platform.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_q6.ko:system/lib/modules/audio_q6.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_q6_notifier.ko:system/lib/modules/audio_q6_notifier.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_q6_pdr.ko:system/lib/modules/audio_q6_pdr.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_stub.ko:system/lib/modules/audio_stub.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_swr.ko:system/lib/modules/audio_swr.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_swr_ctrl.ko:system/lib/modules/audio_swr_ctrl.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_tas2557.ko:system/lib/modules/audio_tas2557.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_tfa98xx.ko:system/lib/modules/audio_tfa98xx.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_usf.ko:system/lib/modules/audio_usf.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_wcd934x.ko:system/lib/modules/audio_wcd934x.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_wcd9360.ko:system/lib/modules/audio_wcd9360.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_wcd9xxx.ko:system/lib/modules/audio_wcd9xxx.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_wcd_core.ko:system/lib/modules/audio_wcd_core.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_wcd_spi.ko:system/lib/modules/audio_wcd_spi.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_wglink.ko:system/lib/modules/audio_wglink.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/audio_wsa881x.ko:system/lib/modules/audio_wsa881x.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/exfat.ko:system/lib/modules/exfat.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/modules.alias:system/lib/modules/modules.alias \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/modules.dep:system/lib/modules/modules.dep \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/mpq-adapter.ko:system/lib/modules/mpq-adapter.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/mpq-dmx-hw-plugin.ko:system/lib/modules/mpq-dmx-hw-plugin.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/qca_cld3_wlan.ko:system/lib/modules/qca_cld3_wlan.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/rmnet_perf.ko:system/lib/modules/rmnet_perf.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/rmnet_shs.ko:system/lib/modules/rmnet_shs.ko \
-    vendor/xiaomi/cepheus/proprietary/lib/modules/tspp.ko:system/lib/modules/tspp.ko \
     vendor/xiaomi/cepheus/proprietary/lib/soundfx/libvolumelistener.so:system/lib/soundfx/libvolumelistener.so \
     vendor/xiaomi/cepheus/proprietary/lib64/soundfx/libvolumelistener.so:system/lib64/soundfx/libvolumelistener.so
 
